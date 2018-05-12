@@ -1,15 +1,21 @@
 _repo: Joan-of-the-Journal_47646
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Beebe, Robb
     gutenberg_agent_id: '44410'
     url: http://www.gutenberg.org/2009/agents/44410
+covers:
+- cover_type: archival
+  image_path: 47646-h/images/cover.jpg
 creator:
   author:
     agent_name: Olds, Helen Diehl
     gutenberg_agent_id: '44409'
     url: http://www.gutenberg.org/2009/agents/44409
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47646#Joan-of-the-Journal
 gutenberg_issued: '2014-12-12'
 gutenberg_type: Text
 identifiers:
